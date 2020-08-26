@@ -8,6 +8,9 @@ var linkname;
 var Quantity;
 var menu;
 
+
+alert('welcome to shawerma resturant Quickly  see the menu then  order')
+
 function  myfunction(){
     name = prompt("enter your name");
     addres = prompt("enter your addres");
